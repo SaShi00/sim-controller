@@ -1,5 +1,5 @@
 {
-  "name": "gui-controller",
+  "name": "sim-controller",
   "private": true,
   "version": "0.0.0",
   "type": "module",
